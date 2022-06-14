@@ -7,6 +7,3 @@ Comita todas as mudanças
 # $ git branch -M main
 # $ git remote add origin #link do repositorio#
 # $ git push -u origin main
-
-
-´´´Essa mudança vai ser apagada´´´

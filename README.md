@@ -1,6 +1,6 @@
 # Guia de Iniciantes GIT
 
-| $  |                               Comando                              |                                              Ação                                             |
+| $  |                               Comando                              |                                             Ação                                            |
 | -- | ------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------|  
 | $  | ```git init```                                                     |Este comando cria um repositório Git vazio - basicamente um .git diretório com subdiretórios para arquivos objects, refs/heads, refs/tagse template. Uma ramificação inicial sem nenhum commit será criada| 
 | $  | `git add <file>`                                                   |Este comando atualiza o índice usando o conteúdo atual encontrado na árvore de trabalho, para preparar o conteúdo preparado para o próximo commit.|
